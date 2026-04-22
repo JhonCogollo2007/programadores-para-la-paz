@@ -1,0 +1,9 @@
+Reflexión de la semana - Pregunta 4
+
+El uso responsable de la información en internet, la participación ciudadana y herramientas como Git tienen algo en común: todas requieren orden, ética y responsabilidad.
+
+Cuando navegamos en internet y compartimos información, estamos participando activamente en la sociedad. Si lo hacemos de forma responsable, verificando las fuentes y pensando en el impacto de lo que publicamos, estamos ejerciendo una ciudadanía digital activa y positiva. Así como un buen ciudadano no difunde rumores en su comunidad, un ciudadano digital no comparte noticias falsas.
+
+Por otro lado, Git es una herramienta que nos enseña a organizar el trabajo de forma ordenada y colaborativa. Cada cambio que hacemos queda registrado, cada acción tiene un mensaje que explica qué hicimos y por qué. Eso es exactamente lo que debería pasar con la información en internet: saber de dónde viene, quién la publicó y con qué propósito.
+
+En conclusión, ser un buen programador no es solo saber escribir código. También implica manejar la información con cuidado, trabajar en equipo con honestidad y entender que nuestras acciones en el mundo digital tienen consecuencias reales en la sociedad.

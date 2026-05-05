@@ -1,0 +1,19 @@
+Reflexión de la semana - Pregunta 9
+
+Mantener un registro de cambios en los proyectos de software es algo esencial
+para cualquier equipo de desarrollo. Git permite saber exactamente qué se cambió,
+quién lo hizo y en qué momento, lo que da una trazabilidad completa del proyecto
+desde el primer día hasta el último.
+
+Esto es especialmente importante cuando algo falla. Si en algún momento el
+programa deja de funcionar correctamente, con Git se puede revisar el historial
+de commits y encontrar en qué punto ocurrió el error, en lugar de tener que
+revisar todo el código desde cero. Eso ahorra muchísimo tiempo.
+
+Además, cuando varias personas trabajan en el mismo proyecto, Git evita que los
+cambios de uno pisen los del otro. Cada desarrollador puede trabajar en su parte
+y luego unir todo de forma ordenada. Sin esta herramienta, trabajar en equipo
+sería un caos de archivos con nombres como "version_final2_correcto_ultimo.txt".
+
+En resumen, Git no es solo una herramienta técnica, es una forma de trabajar con
+orden, responsabilidad y profesionalismo en cualquier proyecto de software.

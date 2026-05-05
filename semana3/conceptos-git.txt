@@ -1,0 +1,20 @@
+Conceptos básicos de Git
+========================
+
+Repositorio:
+Un repositorio es el espacio donde Git guarda todos los archivos de un proyecto
+junto con el historial completo de cambios. Es como una carpeta inteligente que
+recuerda cada versión del proyecto desde el inicio. Puede estar en tu computador
+(repositorio local) o en internet, por ejemplo en GitHub (repositorio remoto).
+
+Commit:
+Un commit es una fotografía del estado del proyecto en un momento determinado.
+Cada vez que hacemos un commit, Git guarda los cambios realizados y les asigna
+un mensaje descriptivo que explica qué se modificó y por qué. Esto permite
+entender la historia del proyecto y volver a versiones anteriores si es necesario.
+
+Push:
+El push es el comando que usamos para enviar los commits que tenemos guardados
+en nuestro computador hacia el repositorio remoto en GitHub. Es decir, es la
+acción de "publicar" nuestros cambios para que queden visibles en internet y
+otras personas puedan verlos o trabajar con ellos.

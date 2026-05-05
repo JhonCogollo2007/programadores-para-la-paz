@@ -1,0 +1,7 @@
+Reflexión de la semana - Pregunta 9
+
+Saber usar la terminal es una habilidad fundamental para cualquier desarrollador, porque es la forma más directa y eficiente de comunicarse con el sistema operativo. Cuando trabajamos en proyectos de programación, necesitamos crear carpetas, mover archivos, ejecutar programas y gestionar muchas cosas al mismo tiempo, y hacerlo desde la terminal es mucho más rápido que buscar cada opción con el ratón.
+
+Además, la terminal nos da un control total sobre lo que estamos haciendo. Podemos ver exactamente qué carpetas existen, qué archivos creamos y en qué orden hicimos las cosas. Eso nos ayuda a mantener el proyecto organizado desde el principio, lo cual es clave cuando el proyecto crece y tiene muchos archivos.
+
+Por otro lado, herramientas como Git solo funcionan desde la terminal, así que si no sabemos usarla, tampoco podemos versionar nuestro código ni trabajar en equipo de forma profesional. En el mundo del desarrollo de software, la terminal no es opcional: es una habilidad básica que todo programador debe dominar desde el inicio de su formación.

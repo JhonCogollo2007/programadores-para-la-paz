@@ -1,0 +1,24 @@
+Reflexión Semana 5 — APIs y comunidades
+
+Las APIs representan una herramienta poderosa para que las comunidades puedan
+compartir información de forma organizada, rápida y accesible desde cualquier
+dispositivo con conexión a internet.
+
+Gracias a las APIs, una comunidad podría construir un sistema donde los vecinos
+reporten problemas del barrio, como daños en vías, fallas en el servicio de
+agua o situaciones de inseguridad, y esos reportes lleguen automáticamente
+a quienes tienen la responsabilidad de atenderlos.
+
+Además, las APIs permiten que diferentes aplicaciones se comuniquen entre sí.
+Por ejemplo, una app móvil comunitaria podría enviar alertas a un sistema web,
+que a su vez notifique a líderes comunitarios o funcionarios públicos en
+tiempo real.
+
+Otro beneficio importante es que las APIs facilitan el acceso a datos abiertos.
+Una comunidad podría publicar información sobre sus proyectos, presupuestos o
+necesidades, y otras organizaciones podrían consultarla para ofrecer apoyo
+o colaboración.
+
+En resumen, las APIs no son solo tecnología para empresas grandes; son también
+una forma de democratizar la información y darle voz organizada a las
+comunidades que históricamente han tenido menos acceso a herramientas digitales.

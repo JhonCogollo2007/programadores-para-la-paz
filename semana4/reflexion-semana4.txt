@@ -1,0 +1,22 @@
+Reflexión Semana 4 — Node.js y tecnologías abiertas para las comunidades
+
+Es fundamental que las comunidades y las iniciativas ciudadanas puedan construir sus
+propias herramientas tecnológicas, y tecnologías abiertas como Node.js hacen que esto
+sea posible sin depender de grandes empresas ni pagar costosas licencias de software.
+
+Cuando una comunidad tiene acceso a tecnologías libres y gratuitas, puede crear
+soluciones adaptadas exactamente a sus necesidades reales, sin verse forzada a
+aceptar herramientas genéricas que no reflejan su contexto ni su cultura.
+
+Node.js, al ser de código abierto, cuenta con una comunidad global enorme que
+comparte conocimiento, tutoriales y recursos de forma gratuita. Esto reduce la
+barrera de entrada para personas y grupos con pocos recursos económicos.
+
+Además, construir tecnología propia genera autonomía: la comunidad no depende de
+terceros para actualizar, modificar o mantener su sistema. Si algo deja de funcionar
+o si las necesidades cambian, el equipo local puede adaptarlo sin pedir permiso ni
+pagar por ello.
+
+Finalmente, desarrollar estas habilidades tecnológicas dentro de una comunidad
+fortalece el capital humano local, crea empleos y fomenta una cultura de
+innovación social que beneficia a todos sus integrantes.

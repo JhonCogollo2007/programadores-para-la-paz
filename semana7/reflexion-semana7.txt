@@ -1,0 +1,19 @@
+Que las comunidades puedan registrar y consultar reportes en una plataforma tecnológica
+es fundamental porque permite organizar la información de forma clara y accesible para
+todos los ciudadanos y las instituciones responsables de atender cada situación.
+
+Cuando los reportes se almacenan en un sistema estructurado, es más fácil hacer
+seguimiento a cada incidencia, verificar si fue atendida y llevar un historial que
+sirva como evidencia ante las autoridades competentes.
+
+Además, una plataforma de este tipo permite que múltiples personas reporten
+situaciones al mismo tiempo, lo que da una visión más completa de los problemas
+que afectan a una comunidad y facilita priorizar las intervenciones más urgentes.
+
+También reduce la dependencia de métodos informales como rumores o mensajes de
+redes sociales, que muchas veces distorsionan la información y dificultan tomar
+decisiones acertadas.
+
+En conclusión, combinar la programación con la participación ciudadana permite
+construir herramientas más transparentes, organizadas y útiles que fortalecen
+la confianza entre la comunidad y las instituciones que la sirven.

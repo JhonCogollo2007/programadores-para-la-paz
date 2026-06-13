@@ -1,0 +1,19 @@
+Es fundamental que las plataformas tecnológicas puedan recibir reportes e información
+de los ciudadanos de forma estructurada, porque esto garantiza que los datos lleguen
+de manera clara, organizada y sin ambigüedades al sistema que los procesa.
+
+Cuando la información está estructurada, como en formato JSON, es mucho más fácil
+para los desarrolladores y las instituciones leerla, almacenarla y actuar sobre ella
+de forma rápida y eficiente.
+
+Además, recibir datos estructurados permite que múltiples ciudadanos reporten diferentes
+tipos de problemas usando el mismo formato, lo que facilita clasificar las incidencias,
+asignarlas a las áreas responsables y hacer seguimiento del estado de cada reporte.
+
+Esto también reduce los errores humanos al momento de interpretar la información, ya
+que el sistema sabe exactamente qué campo contiene el tipo de problema y cuál contiene
+la descripción detallada.
+
+En definitiva, combinar la programación con las necesidades comunitarias permite construir
+herramientas más útiles, transparentes y participativas, donde la ciudadanía tiene voz
+activa en la mejora de su entorno gracias a la tecnología.

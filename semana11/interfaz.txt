@@ -1,0 +1,35 @@
+Interfaz básica - Plataforma comunitaria
+=========================================
+
+La interfaz de la plataforma estaría organizada de forma sencilla para que
+cualquier ciudadano pueda usarla sin necesitar conocimientos técnicos.
+
+SECCIÓN 1 - Formulario para crear una causa:
+Tendría un formulario con los siguientes campos:
+- Título de la causa (texto corto)
+- Descripción del problema (texto largo)
+- Categoría (menú desplegable: ambiental, seguridad, infraestructura, otro)
+- Botón "Publicar causa"
+Solo los usuarios registrados y con sesión activa podrían crear causas.
+
+SECCIÓN 2 - Lista de causas disponibles:
+Mostraría todas las causas activas en tarjetas con:
+- Título de la causa
+- Descripción breve
+- Categoría
+- Fecha de publicación
+- Contador de apoyos recibidos
+- Botón "Apoyar esta causa"
+Esta sección sería visible para todos los visitantes, pero solo los usuarios
+registrados podrían hacer clic en el botón de apoyo.
+
+SECCIÓN 3 - Contador de apoyos:
+Cada causa tendría visible el número de apoyos recibidos, actualizado en
+tiempo real. Esto permite ver qué causas tienen más respaldo de la comunidad.
+
+SECCIÓN 4 - Panel de administración (solo para coordinadores):
+Permitiría revisar, editar o cambiar el estado de las causas registradas.
+Esta sección estaría protegida y no sería accesible para usuarios comunes.
+
+La interfaz debe ser clara, sencilla y no debe mostrar información privada
+de los usuarios en ninguna sección pública de la plataforma.

@@ -1,0 +1,21 @@
+Reflexión de la semana - Pregunta 10
+
+Una plataforma tecnológica que promueve la participación ciudadana necesita
+base de datos porque sin ella la información se perdería cada vez que alguien
+cierra la aplicación. Guardar las causas, los apoyos y los usuarios de forma
+estructurada es lo que permite que la plataforma funcione de manera continua
+y que los datos estén disponibles para quien los necesite en cualquier momento.
+
+La autenticación es igualmente importante porque no todas las personas deben
+tener acceso a las mismas funciones. Un ciudadano puede publicar y apoyar causas,
+pero no debería poder eliminar reportes de otros ni ver información privada del
+sistema. Sin control de acceso, cualquier persona podría alterar o borrar datos
+valiosos para la comunidad.
+
+Finalmente, proteger la información es una responsabilidad ética. Las personas
+que participan en una plataforma comunitaria confían en que sus datos no van a
+ser expuestos ni usados de manera indebida. Si esa confianza se rompe, la
+comunidad deja de participar y la plataforma pierde su propósito. Por eso,
+base de datos, autenticación y protección de datos no son funciones opcionales
+sino la base sobre la que debe construirse cualquier solución tecnológica con
+impacto social responsable.

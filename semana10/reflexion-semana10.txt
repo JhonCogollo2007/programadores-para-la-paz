@@ -1,0 +1,20 @@
+Reflexión de la semana - Pregunta 10
+
+Las metodologías ágiles permiten que un equipo de desarrollo no intente resolver
+todo al mismo tiempo, sino que divida el trabajo en partes pequeñas y manejables.
+Eso es especialmente útil en proyectos comunitarios, donde los recursos son
+limitados y las necesidades pueden cambiar según lo que vaya pasando en el territorio.
+Con un backlog bien organizado, el equipo siempre sabe qué es lo más urgente
+y puede entregar resultados útiles desde las primeras semanas.
+
+La automatización con herramientas como n8n reduce el trabajo manual y evita
+que las notificaciones importantes se pierdan. En un proceso de participación
+ciudadana, donde puede haber muchos reportes llegando al mismo tiempo, contar
+con un flujo automático que avise al coordinador por Telegram hace que la respuesta
+sea mucho más rápida y organizada, sin depender de que alguien esté mirando
+la pantalla todo el tiempo.
+
+Finalmente, Telegram como canal de coordinación es accesible para casi cualquier
+persona con un celular, lo que lo hace ideal para comunidades donde no todos
+tienen acceso a computadores. En conjunto, estas herramientas no reemplazan la
+participación humana, pero sí la hacen más eficiente, trazable y transparente.

@@ -1,0 +1,30 @@
+Diseño de automatización con n8n y Telegram
+============================================
+
+Flujo de automatización propuesto:
+
+EVENTO QUE ACTIVA EL FLUJO:
+Un ciudadano envía un nuevo reporte de incidencia a través del formulario
+de la plataforma comunitaria.
+
+PASOS DEL FLUJO EN n8n:
+1. n8n detecta que se registró un nuevo reporte en el sistema.
+2. n8n extrae información básica no sensible del reporte (número de caso,
+   categoría del problema, fecha y hora de registro).
+3. n8n envía un mensaje automático al canal de Telegram del equipo coordinador.
+
+MENSAJE QUE SE ENVIARÍA A TELEGRAM:
+"Nuevo reporte recibido en el sistema.
+Número de caso: #[ID automático]
+Categoría: [tipo de incidencia]
+Fecha: [fecha y hora]
+Acción: Ingresar al sistema para revisar los detalles."
+
+INFORMACIÓN QUE NO DEBE ENVIARSE POR SEGURIDAD:
+- Nombres completos del ciudadano que reportó.
+- Número de documento de identidad.
+- Dirección exacta del domicilio.
+- Número de teléfono o correo electrónico.
+- Tokens de API o claves de acceso.
+- Contraseñas de ningún tipo.
+- Cualquier dato que permita identificar directamente a una persona.

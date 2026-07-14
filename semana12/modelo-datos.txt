@@ -1,0 +1,44 @@
+Modelo de datos: Petición en 3 Clics
+======================================
+
+Entidad: Causa
+
+Campos:
+- id          (identificador único generado automáticamente)
+- titulo      (nombre corto de la causa comunitaria)
+- descripcion (explicación detallada del problema o necesidad)
+- categoria   (tipo: infraestructura, seguridad, medio ambiente, otro)
+- fecha       (fecha y hora en que fue registrada)
+- estado      (activa, cerrada, resuelta)
+
+Propósito:
+Guardar las causas comunitarias que los ciudadanos crean en la plataforma.
+Es la entidad principal del sistema y sobre ella giran todas las demás acciones.
+
+
+Entidad: Apoyo
+
+Campos:
+- id        (identificador único del apoyo)
+- causa_id  (referencia a la causa que está recibiendo el apoyo)
+- nombre    (nombre o alias del ciudadano que apoya, no datos sensibles)
+- fecha     (fecha y hora en que se registró el apoyo)
+
+Propósito:
+Registrar cada vez que un ciudadano apoya una causa. Permite contar el total
+de respaldos y generar el documento PDF con información verificable sobre
+la participación de la comunidad.
+
+
+Entidad: Documento
+
+Campos:
+- id        (identificador único del documento generado)
+- causa_id  (referencia a la causa para la que se generó el PDF)
+- fecha     (fecha en que se generó el documento)
+- total     (número de apoyos al momento de generar el PDF)
+- ruta      (ubicación del archivo PDF en el servidor)
+
+Propósito:
+Llevar registro de los documentos PDF generados para cada causa, permitiendo
+saber cuándo se generaron, con cuántos apoyos y dónde está guardado el archivo.

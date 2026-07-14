@@ -1,0 +1,25 @@
+Reflexión final - Semana 12
+
+Durante este curso aprendí que la tecnología no es solo una herramienta para
+resolver problemas técnicos, sino que puede convertirse en un puente real entre
+los ciudadanos y las instituciones cuando se construye con propósito y responsabilidad.
+
+Aprendí a organizar el trabajo usando metodologías ágiles con backlog e iteraciones,
+lo que me enseñó que no es necesario tener todo perfecto desde el inicio, sino que
+se puede avanzar paso a paso entregando resultados útiles desde las primeras semanas.
+
+También comprendí la importancia de proteger los datos de las personas que usan
+una plataforma comunitaria. Guardar solo la información necesaria, controlar quién
+puede acceder a ella y nunca exponer datos sensibles no es solo una buena práctica
+técnica, sino una responsabilidad ética con la comunidad.
+
+Herramientas como Git me enseñaron que el trabajo en equipo requiere orden, trazabilidad
+y comunicación clara. Cada commit es un registro de lo que se hizo y por qué, lo
+que permite que cualquier persona pueda entender la historia del proyecto.
+
+Finalmente, entender cómo se conectan el frontend, el backend, la base de datos y
+la automatización me dio una visión completa de cómo funciona una plataforma digital
+real. Saber que detrás de un botón hay procesos, validaciones y registros me hace
+pensar de forma más crítica tanto como usuario como desarrollador. Este curso me
+demostró que programar con impacto social es posible cuando se combina el conocimiento
+técnico con el compromiso ciudadano.

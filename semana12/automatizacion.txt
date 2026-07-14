@@ -1,0 +1,43 @@
+Automatización con n8n y Telegram
+===================================
+
+AUTOMATIZACIÓN 1: Nueva causa registrada
+
+Evento que activa el flujo:
+Un ciudadano crea una nueva causa en la plataforma y queda guardada
+en la base de datos correctamente.
+
+Pasos del flujo en n8n:
+1. n8n detecta el nuevo registro en la base de datos.
+2. Extrae información básica no sensible: título de la causa, categoría y fecha.
+3. Envía un mensaje automático al canal de Telegram del equipo coordinador.
+
+Mensaje que se envía a Telegram:
+"Nueva causa registrada en la plataforma.
+Título: [título de la causa]
+Categoría: [categoría]
+Fecha: [fecha y hora]
+Acción: Ingresa al sistema para revisar los detalles."
+
+Información que NO debe enviarse por seguridad:
+- Nombre completo del ciudadano que creó la causa.
+- Número de documento de identidad.
+- Dirección exacta o teléfono personal.
+- Contraseñas o tokens de acceso.
+- Comentarios internos o datos sensibles del reporte.
+
+
+AUTOMATIZACIÓN 2: Documento PDF generado
+
+Evento que activa el flujo:
+El sistema genera un PDF de petición formal para una causa.
+
+Mensaje que se envía a Telegram:
+"Documento PDF generado para la causa: [título].
+Total de apoyos registrados: [número].
+El documento está listo para ser descargado desde el sistema."
+
+Información que NO debe enviarse:
+- Listado de nombres de quienes apoyaron.
+- Datos personales de ningún participante.
+- Ruta interna del servidor donde está guardado el archivo.

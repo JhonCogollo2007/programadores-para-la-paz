@@ -1,0 +1,30 @@
+Flujo del sistema: Petición en 3 Clics
+=======================================
+
+Paso 1: El ciudadano entra a la plataforma y crea una causa comunitaria
+escribiendo un título, una descripción del problema y la categoría a la
+que pertenece (infraestructura, medio ambiente, seguridad, etc.).
+
+Paso 2: La causa queda registrada en la base de datos con una fecha,
+un identificador único y el estado "activa", lista para recibir apoyos
+de otros ciudadanos.
+
+Paso 3: Otros ciudadanos pueden ver la lista de causas activas y apoyar
+las que consideren importantes haciendo clic en el botón "Apoyar esta causa".
+Cada apoyo queda registrado en la base de datos vinculado a la causa correspondiente.
+
+Paso 4: El sistema cuenta automáticamente los apoyos recibidos y muestra
+el total actualizado en la página de cada causa, permitiendo ver en tiempo
+real cuántas personas respaldan cada petición.
+
+Paso 5: Cuando la causa alcanza un número mínimo de apoyos o el coordinador
+lo decide, el sistema genera automáticamente un documento PDF con el título
+de la causa, la descripción, la fecha de creación y el total de apoyos registrados.
+
+Paso 6: El PDF generado puede ser descargado por el coordinador y presentado
+formalmente ante las autoridades competentes como evidencia de la participación
+y el respaldo comunitario a esa petición.
+
+Paso 7: n8n detecta el evento de nueva causa registrada y envía una notificación
+automática al canal de Telegram del equipo coordinador para que estén al tanto
+de los nuevos reportes sin necesidad de revisar la plataforma manualmente.
